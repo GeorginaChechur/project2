@@ -9,5 +9,6 @@ decr--;
 
 console.log(incr);
 console.log(decr);
+ let a = 5;
 
 
